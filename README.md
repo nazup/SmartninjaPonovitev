@@ -1,0 +1,2 @@
+# SmartninjaPonovitev
+Ponovitev osvojenega znanja
